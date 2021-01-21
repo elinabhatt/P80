@@ -17,3 +17,6 @@ function getParagraph1()
 		}
 	document.getElementById("p2").innerHTML = m.join(". ");
 	}
+
+
+
